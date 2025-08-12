@@ -1,0 +1,5 @@
+{
+	"watch": ["test-paths.js"],
+	"ignore": ["test-results/", "**/*.test.js", "node_modules/", "commands/", "server.js"],
+	"ext": "js,json"
+}
